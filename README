@@ -1,0 +1,17 @@
+To use Quizmaster, first make a text file (using Notepad, Emacs, Vi, or another
+text editing utility.  Wordprocessors such as Microsoft Word and Corel 
+WordPerfect will _NOT_ work.) containing the vocabulary words in this format
+
+word in foreign language|word in English
+
+Copy that file into the same directory as the executable file of the Quizmaster
+program.  Start Quizmaster and give it the name of your text file when it asks
+for a file containing the vocabulary words.
+
+Enjoy!
+
+Copyright (c) 2002 Patrick Simmons
+
+NO WARRANTY
+
+See COPYING for license.
